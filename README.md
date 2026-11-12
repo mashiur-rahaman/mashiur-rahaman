@@ -29,15 +29,36 @@ My research focuses on developing intelligent computational methods for visual r
 - AI-driven Healthcare Applications
 - Human-Centered Intelligent Systems
 
-## 💻 Technical Skills & Tools
 
-- Python
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Pattern recognition
+## 🛠️ Technical Skills & Tools
+
+### Programming
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</p>
+
+### AI & Computational Research
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-102A43?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-0078D4?style=for-the-badge"/>
+</p>
+
+### Research & Development
 - Algorithm Development
 - Experimental Evaluation
+- Biometric Recognition
+- LiDAR Point Cloud Processing
+
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mashiur-rahaman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashiur-rahaman&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
 
 ## 📚 Academic Profiles
 
