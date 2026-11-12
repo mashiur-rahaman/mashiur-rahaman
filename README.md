@@ -29,12 +29,13 @@ My research focuses on developing intelligent computational methods for visual r
 - AI-driven Healthcare Applications
 - Human-Centered Intelligent Systems
 
-## 💻 Technical Interests
+## 💻 Technical Skills & Tools
 
 - Python
 - Machine Learning
 - Deep Learning
 - Computer Vision
+- Pattern recognition
 - Algorithm Development
 - Experimental Evaluation
 
@@ -46,14 +47,14 @@ My research focuses on developing intelligent computational methods for visual r
 
 ## 🚀 Research & Projects
 
-I use this GitHub space to share and organize:
+My research work and technical contributions focus on:
 
-- Research implementations and source codes
-- Computer vision and AI experiments
-- Gait recognition research
-- LiDAR-based analysis
-- Machine learning models and evaluation
-- Reproducible research projects
+- Gait Recognition and Biometric Identification
+- LiDAR-based Human Recognition
+- Computer Vision and Deep Learning
+- AI-based Recognition Systems
+- Biomedical AI and Healthcare Applications
+- Reproducible Research and Algorithm Development
 
 ## 🤝 Research Collaboration
 
