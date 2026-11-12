@@ -1,4 +1,3 @@
-# Md. Mashiur Rahaman
 
 <p align="center">
   <img src="profile-banner.png.png" width="100%" alt="Md. Mashiur Rahaman - Research Banner">
