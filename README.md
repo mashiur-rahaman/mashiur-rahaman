@@ -22,6 +22,13 @@ My research focuses on developing intelligent computational methods for visual r
 - Multimodal Learning and Data Fusion
 - Biometric Recognition
 
+## 🧬 Interdisciplinary Research Interests
+
+- Biomedical Artificial Intelligence
+- Medical Image Analysis
+- AI-driven Healthcare Applications
+- Human-Centered Intelligent Systems
+
 ## 💻 Technical Interests
 
 - Python
