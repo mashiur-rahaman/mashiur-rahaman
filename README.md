@@ -42,15 +42,21 @@ I use this GitHub space to share and organize:
 - Machine learning models and evaluation
 - Reproducible research projects
 
-## 🤝 Collaboration
+## 🤝 Research Collaboration
 
-I am interested in academic collaboration, research discussions, and innovative projects in Artificial Intelligence and Computer Vision.
+I am open to interdisciplinary research collaborations with researchers, academics, and professionals working in:
 
-Feel free to explore my repositories and connect with me through my academic profiles.
+- Biometrics, Gait Recognition, and Computer Vision
+- Biomedical AI and Medical Image Analysis
+- AI-driven Healthcare Applications
+- Human-Centered Intelligent Systems
+- Digital Healthcare
 
----
+I welcome opportunities to exchange research ideas, collaborate on innovative projects, develop joint research, and contribute to interdisciplinary publications.
+
+If our research interests align, feel free to connect with me!
 
 **Md. Mashiur Rahaman**  
-*Researcher | Computer Vision | Artificial Intelligence*
+*Researcher | Computer Vision & Patter  recognition | Biometric Identification*
 
 [Google Scholar](https://scholar.google.com/citations?user=tv9q59wAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Md-Rahaman-160) · [Website](https://mashiur-rahaman.netlify.app/)
