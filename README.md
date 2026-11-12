@@ -1,5 +1,12 @@
 # Md. Mashiur Rahaman
 
+<p align="center">
+  <img src="profile-banner.png.png" width="100%" alt="Md. Mashiur Rahaman - Research Banner">
+</p>
+
+---
+
+
 ### PhD Researcher | Computer Vision | Artificial Intelligence
 
 Welcome to my GitHub profile! I am a researcher working at the intersection of Computer Vision, Artificial Intelligence, and Intelligent Systems.
