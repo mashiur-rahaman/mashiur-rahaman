@@ -8,7 +8,7 @@
 
 ### PhD Researcher | Understanding Human Motion | *Building trust in AI*
 
-Welcome to my GitHub profile! I’m a PhD candidate in Control Science and Engineering at Central South University, working under the supervision of Prof. Tang Jin. I explore how intelligent systems see, recognize, and understand people—from the way we walk to the 3D signals we leave behind.
+Welcome to my GitHub profile! I’m a PhD candidate in **Control Science and Engineering** at **Central South University** in the **Intelligent Science and Technology Lab**. I explore how intelligent systems see, recognize, and understand people—from the way we walk to the 3D signals we leave behind.
 
 My research brings together **Biometric recognition**, **LiDAR point-cloud analysis**, **3D Computer Vision**, and **Explainable AI**. I’m interested in what vision models learn, why they fail, and how we can make them more reliable in real-world conditions.
 
