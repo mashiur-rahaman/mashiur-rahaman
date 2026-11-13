@@ -105,17 +105,17 @@ For my complete publication history and citation information:
 ### 🎤 Accepted Conference Paper
 
 - **IEEE 3rd International Conference on Computing, Applications and Systems (COMPAS 2026)**
-  - Status: Accepted
-  - Venue: University of Dhaka, Bangladesh
-  - Date: October 9–10, 2026
+  - **Status**: Accepted
+  - **Venue**: University of Dhaka, Bangladesh
+  - **Date**: October 9–10, 2026
 
 ### 📝 Journal Manuscripts Under Review
 
 - **IEEE Transactions on Biometrics, Behavior, and Identity Science (IEEE T-BIOM)**
-  - Status: Under Review
+  - **Status**: Under Review
 
 - **Pattern Recognition Letters**
-  - Status: Under Review
+  - **Status**: Under Review
 
 
 
@@ -165,7 +165,7 @@ I am open to interdisciplinary research collaborations with researchers, academi
 
 I welcome opportunities to exchange research ideas, collaborate on innovative projects, develop joint research, and contribute to interdisciplinary publications.
 
-If our research interests align, feel free to connect with me!
+If our research interests align, feel free to connect with me! **Email**: mashiur.scholar@gmail.com
 
 **Md. Mashiur Rahaman**  
 *Researcher | Computer Vision & Patter  recognition | Biometric Identification*
