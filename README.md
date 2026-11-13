@@ -6,11 +6,13 @@
 ---
 
 
-### PhD Researcher | Computer Vision | Artificial Intelligence
+### PhD Researcher | Understanding Human Motion | *Building trust in AI*
 
-Welcome to my GitHub profile! I am a researcher working at the intersection of Computer Vision, Artificial Intelligence, and Intelligent Systems.
+Welcome to my GitHub profile! I’m a PhD candidate in Control Science and Engineering at Central South University, working under the supervision of Prof. Tang Jin. I explore how intelligent systems see, recognize, and understand people—from the way we walk to the 3D signals we leave behind.
 
-My research focuses on developing intelligent computational methods for visual recognition, human identification, and advanced machine learning applications.
+My research brings together **Biometric recognition**, **LiDAR point-cloud analysis**, **3D Computer Vision**, and **Explainable AI**. I’m interested in what vision models learn, why they fail, and how we can make them more reliable in real-world conditions.
+
+Alongside biometrics, I explore **Biomedical AI**, **Medical Image Analysis**, and **Multimodal Learning—Connecting Computational** research with human-centered applications.
 
 ## 🔬 Research Interests
 
