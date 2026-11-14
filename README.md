@@ -52,8 +52,6 @@ Alongside biometrics, I explore **Biomedical AI**, **Medical Image Analysis**, a
 
 ### AI & Computational Research
 
-### AI & Computational Research
-
 <p>
   <img src="https://img.shields.io/badge/Machine_Learning-102A43?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Deep_Learning-6C5CE7?style=for-the-badge&logo=pytorch&logoColor=white"/>
